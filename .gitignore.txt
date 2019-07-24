@@ -1,0 +1,13 @@
+# General
+.DS_Store
+
+# directories to ignore
+Granger_Causality/
+HERMES/
+Herr_Lab_Data/
+matlab_figures/
+matlab_functions/
+Matlab-Import-Filter/
+power_analysis/
+summary_03_01_2016/
+tensor_toolbox/
